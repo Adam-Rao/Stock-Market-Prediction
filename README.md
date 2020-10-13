@@ -28,8 +28,13 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 
 Please make sure to update tests as appropriate.
 
-For any other information, e-mail the repository owner @ mkibet14@gmail.com or the contributing parties @ terrymigwi@gmail.com @ 
-bchege567@gmail.com @ marthairungum@gmail.com
+For any other information, e-mail the repository owner, Cherono Martha : mkibet14@gmail.com or the contributing parties; 
+
+Terry Migwi : terrymigwi@gmail.com
+
+Brian Chege : bchege567@gmail.com 
+
+Martha Irungu : marthairungum@gmail.com
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
