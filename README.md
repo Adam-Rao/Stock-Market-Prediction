@@ -1,5 +1,6 @@
 # Stock-Market-Prediction
 
+## Description
 This is a project that entails building of 4 time series models to predict 2020 stocks for three companies i.e. IBM, LVMH and Merck and Co. Inc.;
 
 The first one is an Arima model.
@@ -10,10 +11,9 @@ The 3rd one is a Long Short Term Memory model.
 
 The 4th one is a Markov model.
 
-## Description
+## Usage
 There is only one notebook for each of the different models
 
-## Usage
 Open the notebook using the Google Colaboratory link provided, copy it on your drive in order to edit and save your changes.
 
 ## Installation
