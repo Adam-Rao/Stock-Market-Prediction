@@ -5,11 +5,11 @@ This is a project that entails building of 4 time series models to predict 2020 
 
 The first one is an Arima model.
 
-The 2nd one is Facebook's Prophet model.
+The second one is Facebook's Prophet model.
 
-The 3rd one is a Long Short Term Memory model.
+The third one is a Long Short Term Memory model.
 
-The 4th one is a Markov model.
+The fourth one is a Markov model.
 
 ## Usage
 There is only one notebook for each of the different models
